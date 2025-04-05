@@ -11,3 +11,6 @@ I have performed following procedure for easy analysis:-
 - Handling missing values and outliers
 
 - Drawing business-relevant conclusions
+## Dataset
+- <a href="https://github.com/NLL369/Mobile-Phone-Sales-Analysis/blob/main/Business%20Intel_Phone%20Sales_Prep%20with%20Calendar%20Table.xlsx">Dataset</a>
+
